@@ -1,1 +1,1 @@
-<h1> german - notes 📝 </h1> 
+<h1> german-resources 📝 </h1> 
